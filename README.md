@@ -41,7 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 ENTER NAMES HERE \
-
+Vishwa Pandya [vishwa-pandya](https://github.com/vishwa-pandya)
 
 ## Task 2
 
