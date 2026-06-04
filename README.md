@@ -40,8 +40,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-ENTER NAMES HERE \
-
+Harshit Rana [harshit7744](http://github.com/harshit7744)
 
 ## Task 2
 
