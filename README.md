@@ -41,6 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 ENTER NAMES HERE \
+SaiAmrit [sas-987](https://github.com/sas-987/Git-Task-2026) \
 Subhashree Mohanty [subhashreemohanty1507](https://github.com/subhashreemohanty1507) \
 Mukesh Nikap [mukeshnikap-dotcom](https://github.com/mukeshnikap-dotcom) \
 RupashiBansal [rupashibansal1298](http://github.com/rupashibansal1298) \
